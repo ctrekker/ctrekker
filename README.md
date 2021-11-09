@@ -1,4 +1,4 @@
-Hey! I'm Connor, an avid coder and want-to-be computer science researcher. Currently studying Computer Science at [Colorado School of Mines](https://www.mines.edu/), but that will change to Physics next semester!
+Hey! I'm Connor, an avid coder and want-to-be computer science researcher. I'm currently studying Physics at [Colorado School of Mines](https://www.mines.edu/).
 
 ## ⚡ What I'm Working On ⚡
 ### 🎈 [Pluto.jl](https://github.com/fonsp/Pluto.jl)
