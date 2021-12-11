@@ -7,7 +7,7 @@ What you see is what you REST, a feature that exposes an API to interact with Pl
 
 ### 🧪 [JuliaSim](https://juliacomputing.com/products/juliasim/)
 
-### ✈ [Deductive.jl](https://github.com/ctrekker/Deductive.jl)
+### 🏹 [Deductive.jl](https://github.com/ctrekker/Deductive.jl)
 A package for expressing and automatically proving logical statements symbolically in Julia
 
 ## 📫 Get In Touch
