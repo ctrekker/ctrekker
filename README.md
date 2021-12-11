@@ -1,4 +1,4 @@
-Hey! I'm Connor, an avid coder and want-to-be computer science researcher. I'm currently studying Physics at [Colorado School of Mines](https://www.mines.edu/).
+Hey! I'm Connor, a coder and will eventaully conduct computer science research. I'm currently studying Physics at [Colorado School of Mines](https://www.mines.edu/).
 
 ## ⚡ What I'm Working On ⚡
 ### 🎈 [Pluto.jl](https://github.com/fonsp/Pluto.jl)
@@ -7,8 +7,8 @@ What you see is what you REST, a feature that exposes an API to interact with Pl
 
 ### 🧪 [JuliaSim](https://juliacomputing.com/products/juliasim/)
 
-### ✈ [picopter](https://github.com/ctrekker/picopter)
-Raspberry Pi Zero W powered quadcopter, very WIP
+### ✈ [Deductive.jl](https://github.com/ctrekker/Deductive.jl)
+A package for expressing and automatically proving logical statements symbolically in Julia
 
 ## 📫 Get In Touch
 Send me an email at [cburns@cot.llc](mailto:cburns@cot.llc) (or [connor@plutojl.org](mailto:connor@plutojl.org))
