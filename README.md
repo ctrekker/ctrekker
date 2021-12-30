@@ -1,4 +1,4 @@
-Hey! I'm Connor, a coder and will eventaully conduct computer science research. I'm currently studying Physics at [Colorado School of Mines](https://www.mines.edu/).
+Hey! I'm Connor, a coder and student studying Physics at [Colorado School of Mines](https://www.mines.edu/). 
 
 ## ⚡ What I'm Working On ⚡
 ### 🎈 [Pluto.jl](https://github.com/fonsp/Pluto.jl)
