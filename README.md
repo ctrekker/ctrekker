@@ -7,7 +7,7 @@ What you see is what you REST, a feature that exposes an API to interact with Pl
 
 ### 🧪 [JuliaSim](https://juliacomputing.com/products/juliasim/)
 
-### 🏹 [PlutoPublish.com](https://github.com/ctrekker/Deductive.jl)
+### 🚀 [PlutoPublish.com](https://github.com/ctrekker/Deductive.jl)
 Fast and simple online Pluto notebook publishing service
 
 ## 📫 Get In Touch
