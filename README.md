@@ -5,8 +5,6 @@ Hey! I'm Connor, a coder and student studying Physics at [Colorado School of Min
 What you see is what you REST, a feature that exposes an API to interact with Pluto.jl notebooks
 - [Pluto.jl Notebooks are Web APIs! | Connor Burns | JuliaCon2021](https://youtu.be/cx_mjsmybA8)
 
-### 🧪 [JuliaSim](https://juliacomputing.com/products/juliasim/)
-
 ### 🚀 [PlutoPublish.com](https://github.com/ctrekker/Deductive.jl)
 Fast and simple online Pluto notebook publishing service
 
