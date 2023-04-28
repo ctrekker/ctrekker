@@ -10,5 +10,5 @@ What you see is what you REST, a feature that exposes an API to interact with Pl
 From-scratch lexer, parser, and compiler written for CSCI425 Compiler Design @ Mines.
 
 ## 📫 Get In Touch
-Send me an email at [cburns@cot.llc](mailto:cburns@cot.llc) (or [connor@plutojl.org](mailto:connor@plutojl.org))
+Send me an email at [connor@plutojl.org](mailto:connor@plutojl.org)
 
